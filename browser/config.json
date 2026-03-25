@@ -1,0 +1,13 @@
+{
+  "browser": {
+    "default_browser": "chromium",
+    "headless": true,
+    "timeout": 30000,
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "downloads_path": "./downloads",
+    "screenshots_path": "./screenshots"
+  }
+}
